@@ -21,7 +21,7 @@ Diesesn Wissen brauche ich für die Systemsicherheit der Geräte eines Netzwerke
 1. Dateien von einem USB Stick restoren mit dd und testdisk
 2. Bootstick Creation mit Balena Etcher
 3. Proxmox und Raidcontroller
-4. Innstallation von 
+4. Installation von grml
 5. Serverhardware
    
 Verwendete Tools/Software: grml, balenaEtcher, SAS Festplatten, Pve, Proxmox, Raid Controller (hat eigenes Bios wo man sachen konfigurieren kann), dd, testdisk, 
