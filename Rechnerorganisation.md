@@ -36,7 +36,25 @@ Arismethische Operatoren: Die arismethischen Operatoren sind +, -, * und /. (Add
 
 
 **Binäraddition:**
+Eine Binärzahl besteht nur aus zwei Ziffern, nämlich 0 und 1. Daher gelten bei der Addition von Binärzahlen 4 bestimmte Regeln: Addierst du die Ziffer 0 mit der Ziffer 0, so ist das Ergebnis auch 0 (0 + 0 = 0). Addierst du die Ziffer 0 mit der Ziffer 1 oder umgekehrt, also Ziffer 1 mit der Ziffer 0, so ist das Ergebnis jeweils 1 (0 + 1 = 1 bzw. 1 + 0 = 1). Addierst du die Ziffer 1 mit der Ziffer 1, so ist das Ergebnis wieder 0. Du erhältst jedoch einen so genannten Übertrag von 1, den du bei der nächsten Berechnung berücksichtigen musst (1 + 1 = 0 und Übertrag 1).
+Beispiel: 1011 + 0110 = 10001
 
+
+**Binärsubtraktion**
+Die Binärsubtraktion funktioniert ähnlich wie die Dezimalsubtraktion, allerdings basiert sie auf dem Binärsystem, das nur die Zahlen 0 und 1 verwendet. Im Binärsystem gelten die folgenden Regeln für die Subtraktion:
+
+0 - 0 = 0
+1 - 0 = 1
+1 - 1 = 0
+0 - 1 = 1 mit Übertragung von einer höheren Bit-Stelle
+
+Beispiel: 1101- 1011
+Von rechts nach links beginnend:
+1-1=0, 0-1=1 mit 1 Übertrag, 1- 0= 1, 1-1=0
+
+Das Ergebnis ist 0110.
+
+Das Ergebnis im Binärsystem ist das Ergebnis immer positiv, da das Binärsystem keine negativen Zahlen direkt darstellen kann. Wenn das Subtrahend größer als der Minuend ist, wird das Ergebnis negativ. In solchen Fällen kann man das Zweierkomplement verwenden, um die Subtraktion als Addition darzustellen.
 
 
 
