@@ -1,24 +1,24 @@
-***Fachbegriffe***
+**Fachbegriffe**
 
-High-Level-Programmiersprache: Eine Programmiersprache, die menschenlesbar ist und auf einem höheren Abstraktionsniveau arbeitet. 
+**High-Level-Programmiersprache:** Eine Programmiersprache, die menschenlesbar ist und auf einem höheren Abstraktionsniveau arbeitet. 
 Diese Sprachen sind näher an natürlicher Sprache und ermöglichen Entwicklern, komplexe Aufgaben mit weniger Code zu erledigen. Beispiel: Python, Java, C++.
 
-Assembly-Sprache: Eine low-level Programmiersprache, die eng mit der Architektur der zugrunde liegenden Hardware verbunden ist. 
+**Assembly-Sprache:** Eine low-level Programmiersprache, die eng mit der Architektur der zugrunde liegenden Hardware verbunden ist. 
 Sie verwendet Befehle, die direkt von der CPU ausgeführt werden können, und besteht aus kurzen, abkürzenden Befehlen, die in maschinenlesbarer Form vorliegen. Beispiel: x86 Assembly.
 
-Machine Language: Die niedrigste Ebene der Programmiersprachen, die direkt von der CPU verstanden wird. 
+**Machine Language:** Die niedrigste Ebene der Programmiersprachen, die direkt von der CPU verstanden wird. 
 Es besteht aus einer binären Darstellung von Befehlen, die von der Hardware ausgeführt werden können. Beispiel: Binäre Maschinensprache (0s und 1s).
 
-Abstraktionsebene: Die Abstraktionsebene bezieht sich auf die ideale Schnittstelle zwischen verschiedenen Abstraktionsniveaus in einem System.
+**Abstraktionsebene:** Die Abstraktionsebene bezieht sich auf die ideale Schnittstelle zwischen verschiedenen Abstraktionsniveaus in einem System.
 Jede Ebene bietet eine bestimmte Sicht oder Darstellung der darunter liegenden Details, wodurch komplexe Systeme in leichter verständliche Teile aufgeteilt werden können.
 
-Abstraktion: Abstraktion bezieht sich darauf, unnötige Details zu verbergen und nur die relevanten Aspekte zu präsentieren. 
+**Abstraktion:** Abstraktion bezieht sich darauf, unnötige Details zu verbergen und nur die relevanten Aspekte zu präsentieren. 
 Durch Abstraktion können komplexe Probleme in einfachere Teilprobleme unterteilt werden, was die Entwicklung und Wartung von Software erleichtert.
 
-Instanzieren: Instanzieren bezieht sich darauf, eine Klasse in einem objektorientierten Programmierparadigma zu verwenden, um ein konkretes Objekt zu erzeugen. 
+**Instanzieren:** Instanzieren bezieht sich darauf, eine Klasse in einem objektorientierten Programmierparadigma zu verwenden, um ein konkretes Objekt zu erzeugen. 
 Es ist der Prozess, bei dem eine Klasse als Datentyp verwendet wird, um ein Objekt zu erzeugen, das spezifische Eigenschaften und Methoden hat.
 
-Instanz: In der objektorientierten Programmierung ist eine Instanz ein konkretes Objekt, das von einer Klasse erstellt wurde. 
+**Instanz:** In der objektorientierten Programmierung ist eine Instanz ein konkretes Objekt, das von einer Klasse erstellt wurde. 
 Jede Instanz einer Klasse hat ihre eigenen Daten und kann auf die Methoden der Klasse zugreifen.
 
 
