@@ -48,12 +48,12 @@ Auf der Webseite kann man Folgendes sehen:
 **Instruction Encoding:** Der Prozess, bei dem eine Anweisung in eine maschinenlesbare Form umgewandelt wird, normalerweise eine binäre Darstellung.
 **Instruction Format:** Die Struktur oder das Layout einer Maschinenanweisung, einschließlich des OPCode (Operation Code), Operanden und anderen relevanten Feldern.
 OPCode: Der Teil einer Maschinenanweisung, der die auszuführende Operation identifiziert.
-Register: Ein kleiner Speicherplatz innerhalb der CPU, der für die Speicherung von Daten oder Befehlen während der Ausführung von Programmen verwendet wird.
-Memory Address: Eine numerische Adresse, die verwendet wird, um auf einen bestimmten Speicherort im Speicher eines Computers zuzugreifen.
+**Register:** Ein kleiner Speicherplatz innerhalb der CPU, der für die Speicherung von Daten oder Befehlen während der Ausführung von Programmen verwendet wird.
+**Memory Address:** Eine numerische Adresse, die verwendet wird, um auf einen bestimmten Speicherort im Speicher eines Computers zuzugreifen.
 
-ADDIU $0, $1, 5
+**ADDIU $0, $1, 5**
 
-Um die MIPS-Instruktion "ADDIU $0, $1, 5" in Hexadezimalcode umzuwandeln, folgen wir diesem Prozess:
+**Um die MIPS-Instruktion "ADDIU $0, $1, 5" in Hexadezimalcode umzuwandeln, folgen wir diesem Prozess:**
 
 OPCode für ADDIU: 001001 (konstant für ADDIU)
 Nummer des Quellregisters ($1): 00001 (entspricht $1)
@@ -65,6 +65,6 @@ OPCode: 0010 01 -> 0x2
 Nummer des Quellregisters ($1): 0000 1 -> 0x1
 Nummer des Zielregisters ($0): 0000 0 -> 0x0
 16-Bit unmittelbarer Wert (5): 0000 0000 0000 0101 -> 0x0005
-Also lautet der Hexadezimalcode für "ADDIU $0, $1, 5" 0x20100005.
+**Also lautet der Hexadezimalcode für "ADDIU $0, $1, 5" 0x20100005.**
 
 
