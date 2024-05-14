@@ -23,30 +23,30 @@ Jede Instanz einer Klasse hat ihre eigenen Daten und kann auf die Methoden der K
 
 
 
-Die Neumann-Architektur ist ein grundlegendes Konzept in der Computertechnik, das die Struktur von modernen Computern beschreibt.
-Control Unit: Die Steuerungseinheit koordiniert die Abläufe im Rechner. 
+Die **Neumann-Architektur** ist ein grundlegendes Konzept in der Computertechnik, das die Struktur von modernen Computern beschreibt.
+**Control Unit:** Die Steuerungseinheit koordiniert die Abläufe im Rechner. 
 Sie interpretiert Befehle aus dem Speicher und steuert die Ausführung von Programmen, indem sie die Ausführung von Befehlen und den Datentransfer zwischen anderen Einheiten des Computers kontrolliert.
 
-Arithmetic/Logic Unit (ALU): Die Rechen- und Logikeinheit führt die arithmetischen Operationen (wie Addition und Subtraktion) sowie logische Operationen (wie AND, OR, NOT) durch. 
+**Arithmetic/Logic Unit (ALU):** Die Rechen- und Logikeinheit führt die arithmetischen Operationen (wie Addition und Subtraktion) sowie logische Operationen (wie AND, OR, NOT) durch. 
 Sie ist für die eigentliche Verarbeitung von Daten zuständig.
 
-Memory Unit: Die Speichereinheit umfasst den Speicher des Computers, in dem Daten und Programme gespeichert werden. 
+**Memory Unit:** Die Speichereinheit umfasst den Speicher des Computers, in dem Daten und Programme gespeichert werden. 
 Dieser Speicher kann sowohl für temporäre Daten während der Ausführung von Programmen als auch für langfristige Speicherung von Programmen und Daten verwendet werden.
 
-Register und Adressen: Register sind kleine, schnelle Speicherplätze innerhalb der CPU, die zur temporären Speicherung von Daten und Befehlen verwendet werden.
+**Register und Adressen:** Register sind kleine, schnelle Speicherplätze innerhalb der CPU, die zur temporären Speicherung von Daten und Befehlen verwendet werden.
 Adressen sind numerische Werte, die verwendet werden, um auf bestimmte Speicherorte im Speicher zuzugreifen.
 
-Die Webseite "https://dannyqiu.me/mips-interpreter/" ist ein MIPS-Assembler-Interpreter. Sie ermöglicht es Benutzern, MIPS-Assembly-Code einzugeben und auszuführen. 
+Die Webseite **"https://dannyqiu.me/mips-interpreter/"** ist ein MIPS-Assembler-Interpreter. Sie ermöglicht es Benutzern, MIPS-Assembly-Code einzugeben und auszuführen. 
 Auf der Webseite kann man Folgendes sehen:
 
-Eingabefeld: Hier können Benutzer ihren MIPS-Assembly-Code eingeben.
-Ausgabefeld: Hier wird der Ausgabe-Maschinencode oder das Ergebnis der Ausführung des eingegebenen MIPS-Codes angezeigt.
-Schaltflächen: Es gibt Schaltflächen zum Ausführen des eingegebenen Codes, zum Löschen des Inhalts der Eingabe- und Ausgabefelder und zum Herunterladen des generierten Maschinencodes.
+**Eingabefeld:** Hier können Benutzer ihren MIPS-Assembly-Code eingeben.
+**Ausgabefeld:** Hier wird der Ausgabe-Maschinencode oder das Ergebnis der Ausführung des eingegebenen MIPS-Codes angezeigt.
+**Schaltflächen:** Es gibt Schaltflächen zum Ausführen des eingegebenen Codes, zum Löschen des Inhalts der Eingabe- und Ausgabefelder und zum Herunterladen des generierten Maschinencodes.
 
-Instruction: Eine Anweisung oder ein Befehl, der von einem Computer ausgeführt wird, um eine bestimmte Operation durchzuführen.
-Mnemonic: Ein kurzer, symbolischer Name, der einer bestimmten Maschinenanweisung zugeordnet ist, um sie für den Programmierer leichter lesbar zu machen.
-Instruction Encoding: Der Prozess, bei dem eine Anweisung in eine maschinenlesbare Form umgewandelt wird, normalerweise eine binäre Darstellung.
-Instruction Format: Die Struktur oder das Layout einer Maschinenanweisung, einschließlich des OPCode (Operation Code), Operanden und anderen relevanten Feldern.
+**Instruction:** Eine Anweisung oder ein Befehl, der von einem Computer ausgeführt wird, um eine bestimmte Operation durchzuführen.
+**Mnemonic:** Ein kurzer, symbolischer Name, der einer bestimmten Maschinenanweisung zugeordnet ist, um sie für den Programmierer leichter lesbar zu machen.
+**Instruction Encoding:** Der Prozess, bei dem eine Anweisung in eine maschinenlesbare Form umgewandelt wird, normalerweise eine binäre Darstellung.
+**Instruction Format:** Die Struktur oder das Layout einer Maschinenanweisung, einschließlich des OPCode (Operation Code), Operanden und anderen relevanten Feldern.
 OPCode: Der Teil einer Maschinenanweisung, der die auszuführende Operation identifiziert.
 Register: Ein kleiner Speicherplatz innerhalb der CPU, der für die Speicherung von Daten oder Befehlen während der Ausführung von Programmen verwendet wird.
 Memory Address: Eine numerische Adresse, die verwendet wird, um auf einen bestimmten Speicherort im Speicher eines Computers zuzugreifen.
